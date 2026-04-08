@@ -43,7 +43,7 @@ function App() {
     }
 
     try {
-      const apiBase = import.meta.env.VITE_API_URL || '/api';
+      const apiBase = (window as any).__RUNTIME_CONFIG__?.API_URL || import.meta.env.VITE_API_URL || '/api';
       const response = await fetch(`${apiBase}/search`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
