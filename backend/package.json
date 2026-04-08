@@ -1,0 +1,34 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test:agent": "node --env-file=.env --loader ts-node/esm src/agents/QueryParser.ts",
+    "start": "node --env-file=.env --loader ts-node/esm src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^1.45.0",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.5.0",
+    "axios": "^1.14.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "node-cache": "^5.1.2",
+    "openai": "^6.29.0",
+    "pg": "^8.20.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.18.0",
+    "@types/xml2js": "^0.4.14"
+  }
+}

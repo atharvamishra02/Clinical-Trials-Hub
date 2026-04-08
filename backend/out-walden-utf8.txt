@@ -1,0 +1,3 @@
+﻿Total Cardiovascular descendants: 471
+Contains waldenstrom macroglobulinemia? true
+It IS in the descendants array!

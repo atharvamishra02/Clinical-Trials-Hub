@@ -1,0 +1,28 @@
+version: "3.8"
+
+services:
+  backend:
+    build: ./backend
+    container_name: clinical-backend
+    restart: unless-stopped
+    env_file:
+      - ./backend/.env
+    ports:
+      - "3001:3001"
+    labels:
+      description: "Clinical Trials Backend API"
+      user: "subhankar"
+      port: "3001"
+
+  frontend:
+    build: ./frontend
+    container_name: clinical-frontend
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    labels:
+      description: "Clinical Trials Search UI"
+      user: "subhankar"
+      port: "80"

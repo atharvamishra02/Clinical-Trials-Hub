@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Build outputs
+/dist/
+/frontend/dist/
+/backend/dist/
+/build/
+
+# Zip files and archives
+*.zip
+*.tar
+*.tar.gz
+
+# Cache files
+.query_cache.json
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

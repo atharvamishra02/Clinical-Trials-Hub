@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: clinical_trials_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: hub_user
+      POSTGRES_PASSWORD: hub_password
+      POSTGRES_DB: clinical_trials_hub
+    ports:
+      - "5434:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  adminer:
+    image: adminer:latest
+    container_name: clinical_trials_adminer
+    restart: always
+    ports:
+      - "8080:8080"
+    depends_on:
+      - postgres
+
+volumes:
+  postgres_data:

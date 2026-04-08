@@ -1,0 +1,47 @@
+[Matrix Filter] Targets - Conditions: 7, Interventions: 0
+[Matrix Filter] Targets - Conditions: 471, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 1, Interventions: 1
+[Matrix Filter] INT SAMPLE: monoclonal antibodies
+[Matrix Filter] Targets - Conditions: 471, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 7, Interventions: 0
+[Matrix Filter] Targets - Conditions: 7, Interventions: 0
+[Matrix Filter] Targets - Conditions: 472, Interventions: 32
+[Matrix Filter] INT SAMPLE: monoclonal antibody, muromonab-cd3, trastuzumab, rituximab, antibodies, monoclonal, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 471, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 472, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibody, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 2, Interventions: 1
+[Matrix Filter] INT SAMPLE: monoclonal antibody
+[Matrix Filter] Targets - Conditions: 2, Interventions: 1
+[Matrix Filter] INT SAMPLE: monoclonal antibody
+[Matrix Filter] Targets - Conditions: 2, Interventions: 1
+[Matrix Filter] INT SAMPLE: monoclonal antibody
+[Matrix Filter] Targets - Conditions: 1, Interventions: 1
+[Matrix Filter] INT SAMPLE: monoclonal antibodies
+[Matrix Filter] Targets - Conditions: 471, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 471, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 471, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 471, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 471, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 471, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 471, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 471, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 471, Interventions: 32
+[Matrix Filter] INT SAMPLE: monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, antibodies, monoclonal, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 471, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 472, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
+[Matrix Filter] Targets - Conditions: 472, Interventions: 32
+[Matrix Filter] INT SAMPLE: antibodies, monoclonal, monoclonal antibodies, muromonab-cd3, trastuzumab, rituximab, single-chain antibodies, antibodies, monoclonal, murine-derived, antibodies, monoclonal, humanized, cetuximab, certolizumab pegol
