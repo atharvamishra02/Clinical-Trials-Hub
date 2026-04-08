@@ -43,7 +43,8 @@ function App() {
     }
 
     try {
-      const response = await fetch('/api/search', {
+      const apiBase = import.meta.env.VITE_API_URL || '/api';
+      const response = await fetch(`${apiBase}/search`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ query, filters, page: targetPage, limit: 50 })

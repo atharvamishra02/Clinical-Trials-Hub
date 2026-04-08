@@ -1,5 +1,5 @@
 services:
-  # Backend API – must be a "web" service so Render gives it a public URL
+  # Backend API
   - type: web
     name: clinical-backend
     env: docker
@@ -9,7 +9,7 @@ services:
     plan: free
     envVars:
       - key: OPENAI_API_KEY
-        sync: false # Set this in the Render dashboard
+        sync: false # Set in Render dashboard
       - key: DB_HOST
         value: aact-db.ctti-clinicaltrials.org
       - key: DB_PORT
@@ -21,7 +21,7 @@ services:
       - key: DB_NAME
         value: aact
 
-  # Frontend – Vite/React served by nginx
+  # Frontend – React static site served by nginx
   - type: web
     name: clinical-frontend
     env: docker
@@ -30,7 +30,6 @@ services:
     region: ohio
     plan: free
     envVars:
-      # Point nginx proxy to the backend's Render URL
-      # After deploying backend, get its URL from Render dashboard and set here
-      - key: BACKEND_URL
-        sync: false # Set to: https://clinical-backend.onrender.com
+      # This gets baked into the JS bundle at build time
+      - key: VITE_API_URL
+        value: https://clinical-backend.onrender.com/api
